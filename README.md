@@ -20,6 +20,7 @@ O Makefile está incluído, provavelmente funcionando por algum milagre da natur
 ```bash
 make
 ./so_joao map.ber
+```
 
 ## 📜 LICENÇA
 Licenciado sob a **ZUEIRA_HU3BR_42**. Use por sua conta e risco. Não me peça ajuda para debugar, a menos que você também esteja aqui pelo caos.
