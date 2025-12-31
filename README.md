@@ -25,5 +25,25 @@ make
 ## 📜 LICENÇA
 Licenciado sob a **ZUEIRA_HU3BR_42**. Use por sua conta e risco. Não me peça ajuda para debugar, a menos que você também esteja aqui pelo caos.
 
+
+
+### 😜😂    TINHA CERTEZA HU3HU3HU3BR    🤣🤪
+
+Apesar da zueira, aqui o aprendizado é sério (ou quase)! Este projeto agora utiliza **Submodules** para a `libft`, oportunidade para evoluir e aprender  mais sobre o Git.
+
+Se você tentar dar um `git clone` normal, vai dar de cara com uma pasta `libft` vazia e vai chorar no `make`. Para clonar essa maravilha da engenharia brasileira do jeito certo, use o comando:
+```
+Bash
+git clone --recursive url:repositorio
+
+```
+**Já clonou e a pasta esta vazia?**
+Não entre em pânico... (Entendedores entenderão)  ¯\_(ツ)_/¯
+Rode isso aqui para salvar seu tempo.
+```
+Bash
+git submodule update --init --recursive
+
+```
 ---
 *Desenvolvido exclusivamente para levar o HU3 ao infinito e além.*
